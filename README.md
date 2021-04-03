@@ -1,19 +1,20 @@
 # Ph0nest
 Простой бомбер с открытым кодом!
 
-Привет!
+## Установка
 
-Это инструкция как скачать Ph0nest
-Поехали
-
+```bash
 pkg update
 
 pkg upgrade
 
-git clone *эту ссылку бомбер*
+git clone https://github.com/htmlcssphpjs/Ph0nest.git
 
 bash install.sh
 
 python Ph0nest.py
+```
 
-Или просто введи Ph0nest
+Далее потребуется токен бота, вот ссылка на создание токена, и настройка отображения:
+
+https://botcreators.ru/blog/botfather-instrukciya/
